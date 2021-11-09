@@ -1,8 +1,8 @@
-const nameGirl = 'Ngọc Linh';
+const nameGirl = 'An nhiên';
 const giftUrl = '';
-const eventName = 'Happy birthday bạn tui nhá !!!';
-const titleCard = 'Gửi bạn tui';
-const contentCard = 'Chúc bạn tuổi mới ngày càng xinh đẹp và gặp nhiều may mắn nha !!! ';
+const eventName = 'Happy birthday';
+const titleCard = 'Gửi bạn Dương nè';
+const contentCard = 'Chúc Dương tuổi mới ngày càng xinh đẹp và gặp nhiều may mắn nha !!! ';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
