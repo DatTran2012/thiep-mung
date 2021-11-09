@@ -1,6 +1,6 @@
 const nameGirl = 'Ngọc Linh';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Happy birthday bạn nhá !!!';
+const eventName = 'Happy birthday bạn tui nhá !!!';
 const titleCard = 'Gửi bạn tui';
 const contentCard = 'Chúc bạn tuổi mới ngày càng xinh đẹp và gặp nhiều may mắn nha !!! ';
 
